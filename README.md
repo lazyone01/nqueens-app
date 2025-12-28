@@ -5,6 +5,11 @@ An interactive web application that visualizes the classic N-Queens problem usin
 🌐 Live Demo
 Visit Live  → https://nqueens-app.vercel.app/
 
+<img width="2531" height="1197" alt="Screenshot 2025-12-28 112841" src="https://github.com/user-attachments/assets/1f2760cd-c551-4db4-ad13-eb55c3d51412" />
+
+<img width="2538" height="657" alt="Screenshot 2025-12-28 112859" src="https://github.com/user-attachments/assets/ac16de80-5583-4dff-ac39-cc0b41b8c3b3" />
+
+
 📖 What is the N-Queens Problem?
 
 The N-Queens problem is a classic computational puzzle where you need to place N chess queens on an N×N chessboard such that no two queens can attack each other. Queens can attack any piece on the same row, column, or diagonal.
